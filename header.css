@@ -1,0 +1,91 @@
+.logo-spider {
+    position: absolute;
+    top: 75px;
+    border-radius: 200px;
+    left: 1230px;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+.logo-spider:active {
+    position: absolute;
+    top: 75px;
+    border-radius: 500px;
+    left: 500px;
+    height: 500px;
+    width: 500px;
+    cursor: pointer;
+    
+}
+
+.title-a {
+    position: absolute;
+    top: 225px;
+    left: 1250px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: system-ui;
+    text-decoration: none;
+    cursor: pointer;
+}
+.title-a:hover {
+    text-decoration: underline;
+}
+.title-a:active {
+    opacity: 0.7;
+}
+
+.title-b {
+    position: absolute;
+    top: 300px;
+    left: 1250px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: system-ui;
+    text-decoration: none;
+    cursor: pointer;
+}
+.title-b:hover {
+    text-decoration: underline;
+}
+.title-b:active {
+    opacity: 0.7;
+}
+
+.title-c {
+    position: absolute;
+    top: 375px;
+    left: 1250px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: system-ui;
+    text-decoration: none;
+    cursor: pointer;
+}
+.title-c:hover {
+    text-decoration: underline;
+}
+.title-c:active {
+    opacity: 0.7;
+}
+
+.title-d {
+    position: absolute;
+    top: 450px;
+    left: 1210px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: system-ui;
+    cursor: pointer;
+}
+.title-d:hover {
+    text-decoration: underline;
+}
+.title-d:active {
+    opacity: 0.7;
+}
